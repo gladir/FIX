@@ -1090,7 +1090,7 @@ End;
 BEGIN
   If(ParamStr(1)='/?')or(ParamStr(1)='--help')or(ParamStr(1)='-h')or
    (ParamStr(1)='/h')or(ParamStr(1)='/H')Then Begin
-  WriteLn('COIN : Cette commande permet de retourner la nom d''une ',
+  WriteLn('COIN : Cette commande permet de retourner le nom d''une ',
           'cryptomonnaie.');
   WriteLn;
   WriteLn('Syntaxe : COIN abbreviation');
