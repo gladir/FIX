@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans FIX :
     <th>Description</th>
   </tr>
   <tr>
+      <td><b>COIN.PAS</b></td>
+      <td>Cette commande permet de demander le nom d'une cryptomonnaie.</td>
+  </tr>
+  <tr>
       <td><b>CURRENCY.PAS</b></td>
       <td>Cette commande permet de retourner la devise d'un pays.</td>
   </tr>
